@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi , I'm Abhishek</h1>
 <h3 align="center">Learning new things daily is my passion. My common interest is in writing, cloud computing, and cybersecurity, and I love spreading smiles to everyone around me. To grow, one needs to step outside of their comfort zone, so I keep challenging myself</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek213-alb&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek213-alb" /> </p>
@@ -8,6 +9,8 @@
 <p align="left"> <a href="https://twitter.com/@rockstarabhipy" target="blank"><img src="https://img.shields.io/twitter/follow/@rockstarabhipy?logo=twitter&style=for-the-badge" alt="@rockstarabhipy" /></a> </p>
 
 - 🌱 I’m currently learning **Google Cloud platform ,Cybersecurity & web development**
+- 🐱‍💻 I love taking part in hackathons, and I'm currently a weekend hacker at Major League Hacking
+
 
 
 <h3 align="left">Languages and Tools:</h3>
